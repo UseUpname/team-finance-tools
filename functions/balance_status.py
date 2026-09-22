@@ -4,4 +4,4 @@ def balance_status(balance):
     elif balance == 0:
         return "잔액 없음"
     else:
-        return "정상 잔액"
+        return "정상잔액"
